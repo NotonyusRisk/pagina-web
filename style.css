@@ -2,13 +2,13 @@ body{
     height: 100px;
     padding-left: 150px;
     padding-right: 150px;
-    background-color: rgb(109, 109, 109);
 }
 
 div{
     color: blanchedalmond;
     background-color: black;
-    padding-left: 400px;
+    font-family: 'Fraunces', serif;
+    font-family: 'Noto Sans JP', sans-serif;
 }
 
 h3{
@@ -17,10 +17,15 @@ h3{
     color: blanchedalmond;
     background-color: black;
     padding-left: 400px;
+    font-family: 'Fraunces', serif;
+    font-family: 'Noto Sans JP', sans-serif;
 }
 
 h4{
-    color: blanchedalmond;
+    color: black;
+    /*font-family: Lobster;*/
+    font-family: 'Fraunces', serif;
+    font-family: 'Noto Sans JP', sans-serif;
 }
 
 img{
@@ -31,5 +36,7 @@ img{
 }
 
 p{
-    color: blanchedalmond;
+    color: black;
+    font-family: 'Fraunces', serif;
+    font-family: 'Noto Sans JP', sans-serif;
 }
