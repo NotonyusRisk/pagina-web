@@ -1,0 +1,35 @@
+body{
+    height: 100px;
+    padding-left: 150px;
+    padding-right: 150px;
+    background-color: rgb(109, 109, 109);
+}
+
+div{
+    color: blanchedalmond;
+    background-color: black;
+    padding-left: 400px;
+}
+
+h3{
+    width: auto;
+    font-weight: 100px;
+    color: blanchedalmond;
+    background-color: black;
+    padding-left: 400px;
+}
+
+h4{
+    color: blanchedalmond;
+}
+
+img{
+    justify-self: start;
+    align-self: center;
+    width: 500px;
+    height: 250px;
+}
+
+p{
+    color: blanchedalmond;
+}
