@@ -4,19 +4,20 @@ body{
     padding-right: 150px;
 }
 
-div{
+h1{
     color: blanchedalmond;
     background-color: black;
     font-family: 'Fraunces', serif;
     font-family: 'Noto Sans JP', sans-serif;
+    text-align: center;
 }
 
 h3{
     width: auto;
     font-weight: 100px;
+    text-align: center;
     color: blanchedalmond;
     background-color: black;
-    padding-left: 400px;
     font-family: 'Fraunces', serif;
     font-family: 'Noto Sans JP', sans-serif;
 }
